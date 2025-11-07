@@ -4,7 +4,7 @@
 🎯 Rigoureux, curieux et créatif, j’aime relever des défis techniques et concevoir des solutions adaptées aux besoins des utilisateurs.  
 📍 Basé à Casablanca, Maroc  
 📫 [aissameelkhmaiti@gmail.com](mailto:aissameelkhmaiti@gmail.com)  
-🌐 [www.aissameelkhmaiti.com](http://www.aissameelkhmaiti.com)  
+🌐 [www.aissameelkhmaiti.com](https://portfolio-3-d-react-aissameelkhmaitis-projects.vercel.app)  
 
 ---
 
