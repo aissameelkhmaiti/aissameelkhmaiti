@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Salut, je suis Aissame Elkhmaiti  
 
-<!--
-**aissameelkhmaiti/aissameelkhmaiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Développeur Full Stack** passionné (Laravel, React.js, Node.js, MongoDB, Tailwind CSS)  
+🎯 J’aime concevoir des applications web modernes, performantes et bien structurées.  
+📍 Casablanca, Maroc  
+📫 [aissameelkhmaiti@gmail.com](mailto:aissameelkhmaiti@gmail.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Compétences principales
+- **Frontend :** React.js, Next.js, Tailwind CSS, Bootstrap, Vue.js  
+- **Backend :** Laravel, Node.js, Express.js  
+- **Base de données :** MySQL, MongoDB  
+- **Outils :** Git, Docker, Postman, Figma  
+
+---
+
+### 💼 Projets récents
+- 🧩 [Gestion des appels - Laravel & Vue.js](#)
+- 🛒 [E-commerce MERN Stack](#)
+- 🌦️ [Application météo avec API REST](#)
+
+---
+
+### 📊 Statistiques GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=aissameelkhmaiti&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aissameelkhmaiti&layout=compact&theme=tokyonight)
